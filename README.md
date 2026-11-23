@@ -31,3 +31,7 @@ npm run dev
 ```
 
 Then open http://localhost:3000.
+
+## License
+
+AGPL-3.0, see [LICENSE](LICENSE), the same licence as [legiliban-crawler](https://github.com/touficbatache/legiliban-crawler).
